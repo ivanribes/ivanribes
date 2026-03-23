@@ -3,7 +3,6 @@
 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)  
 ☕ Java · Desarrollo de aplicaciones multiplataforma  
 💻 Backend & Frontend  
-🛠️ Pico y pala, proyecto a proyecto
 
 ---
 
