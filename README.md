@@ -40,7 +40,3 @@ Todos pensados como base para seguir evolucionando hacia proyectos más grandes.
 - Mejorar estructura y modularización del código
 - Dar el salto a proyectos más completos
 
----
-
-## ☕ Filosofía
-Poco a poco, pero siempre hacia delante.
